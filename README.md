@@ -29,7 +29,14 @@
 
 ## Screenshots
 
-*Coming soon*
+**Homepage**
+![29 Equity Homepage](images/homepage.png)
+
+**Live Market Dashboard**
+![Live Market Dashboard](images/market-dashboard.png)
+
+**AI Financing Analyzer**
+![AI Financing Analyzer](images/irr-calculator.png)
 
 ## Contact
 
